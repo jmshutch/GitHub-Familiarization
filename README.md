@@ -3,6 +3,8 @@ GitHub Familiarization
 
 Objective:  Become familiar with GitHub as an online repository for your coding work and GitHub Desktop for managing your work locally and reintegrating it with your online repository.
 
+Task:  Accept a GitHub assignment, clone the instructor repository on your GitHub account and locally as a new personal repository, edit a file in the repository to provide a brief biography of yourself, commit the changes made to your local copy of the file, and push those changes back to your GitHub account and assignment repository. 
+
 Note:  If you will be using your personal computer this semester, please download and install the following programs:
 1.  Notepad++ - https://notepad-plus-plus.org/downloads/
 2.  PythonWin - see installation file on Canvas
