@@ -4,7 +4,7 @@ Objective:  Become familiar with GitHub as an online repository for your coding 
 
 Task:  Accept a GitHub assignment, clone the instructor repository on your GitHub account and locally as a new personal repository, edit a file in the repository to provide a brief biography of yourself, commit the changes made to your local copy of the file, and push those changes back to your GitHub account and assignment repository. Finally, seek assistance by posting an issue in GitHub.
 
-Required Software:  We will use the following software programs during this exercise.  These programs are available on the laboratory computers in S3014A.  If you will be using your own computer this semester, please download and install each program.
+Required Software:  The following software programs will be used in this exercise.  Each is available on the laboratory computers in S3014A.  If you plan to use your own personal computer this semester, please download and install.
 1.  Notepad++ - https://notepad-plus-plus.org/downloads/
 2.  GitHubDesktop - https://desktop.github.com/
 
