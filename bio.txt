@@ -1,4 +1,4 @@
-INSTRUCTIONS - Edit this file in an editor such as Notepad++ and provide the information requested below.  You are welcome to include any additional biographical data, or other information, that you would like me to be aware of this semester.
+INSTRUCTIONS - Edit this file in an editor such as Notepad++ and provide the information requested below.  You are welcome to include any additional biographical data, or other information, that you would like me to be aware of this semester.  After you complete your edits, commit the changes to the master and provide a summary and short description of what you did to the file.  After committing the changes, push the committed changes to the original remote repository.
 
 Name:
 Hometown:
