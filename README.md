@@ -1,5 +1,4 @@
 # GitHub-Familiarization
-GitHub Familiarization
 
 Objective:  Become familiar with GitHub as an online repository for your coding work and GitHub Desktop for managing your work locally and reintegrating it with your online repository.
 
