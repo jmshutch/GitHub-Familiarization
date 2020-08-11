@@ -16,5 +16,8 @@ Login to GitHub (https://github.com) and create a free personal account.  I reco
 Step #2 - Start GitHub Desktop
 Login to GitHub Desktop using your GitHub credentials.
 
-Step #3 - Accept the Assignment Invitation
+Step #3 - Accept the Assignment Invitation and Clone a Template Repository
 When you are assigned coding work this semester, I will send you an email message with a link.  Simply click on this link to "accept" the assignment.  This automatically starts the process of copying a template repository containing instructions and other important files that I provide as a starting point.  This procedure is also known as cloning.  The cloned respository will follow the naming convention "template repository name" - "your GitHub username". 
+
+Step #4 - Create a Local Clone
+Within GitHub, find your  newly created assignment repository, click the green Code button, and choose Open with GitHubDesktop.  GitHub Desktop gives you the option to open the locally cloned files in an editor program (e.g., Notepad++), viewing the repo files in Windows Explorer, or opening the repo page on GitHub.
